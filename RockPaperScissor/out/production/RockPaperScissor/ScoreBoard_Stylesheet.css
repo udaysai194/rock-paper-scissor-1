@@ -1,0 +1,25 @@
+#root{
+    -fx-background-color: yellow;
+}
+
+#score_text{
+    -fx-padding: 0px 10px 0px 0px;
+    -fx-font-size: 20px;
+    -fx-text-fill: #AD3043;
+}
+
+#score_score{
+    -fx-font-size: 70px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #AD3043;
+    -fx-padding: 0px 10px 0px 0px;
+}
+
+#Score_alert{
+}
+
+#button_yes{
+}
+
+#button_no{
+}

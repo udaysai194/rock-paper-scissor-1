@@ -1,0 +1,16 @@
+.button {
+    -fx-font-size: 25px;
+    -fx-background-color:
+            linear-gradient(#CB59F5, #8828AC);
+    -fx-background-radius: 6, 5;
+    -fx-text-fill: #ffffff;
+
+}
+
+.button:hover {
+    -fx-background-color: #AD3043;
+}
+
+.label {
+    -fx-font-size: 50px;
+}
